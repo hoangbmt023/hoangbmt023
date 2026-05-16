@@ -14,8 +14,8 @@
 
   <p>
     <a href="https://github.com/hoangbmt023"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-    <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+    <a href="https://www.linkedin.com/in/ph%E1%BA%A1m-trong-huy-ho%C3%A0ng-124354384/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=huyhoang0210204@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   </p>
 </div>
 
@@ -60,23 +60,23 @@
 <div align="center">
 
   <a href="https://github.com/hoangbmt023">
-    <img src="https://github-profile-trophy.vercel.app/?username=hoangbmt023&theme=radical&column=6&margin-w=10&margin-h=10&no-bg=true" alt="Trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=hoangbmt023&theme=radical&column=6&margin-w=10&margin-h=10" alt="Trophy" />
   </a>
   
   <br><br>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hoangbmt023&show_icons=true&hide_border=true&bg_color=45,00223E,1D976C&title_color=43E695&text_color=FFFFFF&icon_color=00ADD8" alt="Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangbmt023&layout=compact&hide_border=true&bg_color=45,00223E,1D976C&title_color=43E695&text_color=FFFFFF&icon_color=00ADD8" alt="Top Langs" />
+  <img height="180em" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=hoangbmt023&show_icons=true&hide_border=true&bg_color=45,1B2B34,1D976C&title_color=43E695&text_color=FFFFFF&icon_color=00ADD8" alt="Stats" />
+  <img height="180em" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=hoangbmt023&layout=compact&hide_border=true&bg_color=45,1B2B34,1D976C&title_color=43E695&text_color=FFFFFF&icon_color=00ADD8" alt="Top Langs" />
 
   <br><br>
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph/?username=hoangbmt023&bg_color=00223E&color=43E695&line=00ADD8&point=FFFFFF&hide_border=true" alt="Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph/?username=hoangbmt023&bg_color=1B2B34&color=43E695&line=00ADD8&point=FFFFFF&hide_border=true" alt="Activity Graph" />
   </a>
 
   <br><br>
 
-  <img src="https://streak-stats.demolab.com?user=hoangbmt023&hide_border=true&background=00223E&ring=43E695&fire=43E695&currStreakLabel=00ADD8&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=hoangbmt023&hide_border=true&background=1B2B34&ring=43E695&fire=43E695&currStreakLabel=00ADD8&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
 
   <br><br>
 
