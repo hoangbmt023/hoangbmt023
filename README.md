@@ -1,16 +1,120 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20Universe&fontSize=50&fontAlignY=38&desc=Hi%20there,%20I'm%20Hoàng!&descAlignY=60&descAlign=50" />
 
-<!--
-**hoangbmt023/hoangbmt023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <a href="https://github.com/hoangbmt023">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=43E695&center=true&vCenter=true&multiline=false&width=600&lines=Backend+Developer+%7C+System+Architecture;Building+scalable+APIs+%26+Microservices;Always+learning+new+technologies" alt="Typing SVG" />
+  </a>
 
-Here are some ideas to get you started:
+  <br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=hoangbmt023&color=blueviolet" alt="Profile Views" />
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=hoangbmt023.visitor-badge&color=00ADD8" alt="Visitor Badge" />
+  </p>
+
+  <p>
+    <a href="https://github.com/hoangbmt023"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+    <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  </p>
+</div>
+
+---
+
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Monkey%20Face.png" alt="Monkey Face" width="35" height="35" /> About Me</h2>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Name-Phạm_Trọng_Huy_Hoàng-00223E?style=for-the-badge" alt="Name" />
+  <img src="https://img.shields.io/badge/Role-Backend_Developer-005B60?style=for-the-badge" alt="Role" />
+  <img src="https://img.shields.io/badge/Location-Vietnam-0A845C?style=for-the-badge" alt="Location" />
+</div>
+<br>
+<div align="center">
+  <img src="https://img.shields.io/badge/Passions-API_Development_%7C_Microservices_%7C_Architecture-1D976C?style=for-the-badge" alt="Passions" />
+</div>
+<br>
+<div align="center">
+  <p style="font-size: 18px; font-weight: 500; color: #ffffffff;">
+    <i><b>"Anything with a power button, people assume the IT guy can fix it."</b></i>
+  </p>
+</div>
+
+---
+
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Octopus.png" alt="Octopus" width="35" height="35" /> Tech Stack & Tools</h2>
+
+<div align="center">
+  <h3>Core Technologies & Frameworks</h3>
+  <img src="https://skillicons.dev/icons?i=java,spring,python,js,react,vite,nodejs,cs,dotnet,php,c,cpp&perline=10" />
+
+  <h3>Database, DevOps & Tools</h3>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis,docker,aws,git,github,gitlab,postman&perline=12" />
+  
+  <br><br>
+</div>
+
+---
+
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Owl.png" alt="Owl" width="35" height="35" /> GitHub Analytics</h2>
+
+<div align="center">
+
+  <a href="https://github.com/hoangbmt023">
+    <img src="https://github-profile-trophy.vercel.app/?username=hoangbmt023&theme=radical&column=6&margin-w=10&margin-h=10&no-bg=true" alt="Trophy" />
+  </a>
+  
+  <br><br>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hoangbmt023&show_icons=true&hide_border=true&bg_color=45,00223E,1D976C&title_color=43E695&text_color=FFFFFF&icon_color=00ADD8" alt="Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangbmt023&layout=compact&hide_border=true&bg_color=45,00223E,1D976C&title_color=43E695&text_color=FFFFFF&icon_color=00ADD8" alt="Top Langs" />
+
+  <br><br>
+
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph/?username=hoangbmt023&bg_color=00223E&color=43E695&line=00ADD8&point=FFFFFF&hide_border=true" alt="Activity Graph" />
+  </a>
+
+  <br><br>
+
+  <img src="https://streak-stats.demolab.com?user=hoangbmt023&hide_border=true&background=00223E&ring=43E695&fire=43E695&currStreakLabel=00ADD8&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
+
+  <br><br>
+
+  <h3>GitHub Profile Summary Cards</h3>
+  <a href="https://github.com/hoangbmt023">
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hoangbmt023&theme=ocean_dark" height="150em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hoangbmt023&theme=ocean_dark" height="150em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hoangbmt023&theme=ocean_dark" height="150em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hoangbmt023&theme=ocean_dark" height="150em" />
+  </a>
+
+</div>
+
+---
+
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="35" height="35" /> Fun Fact: Contribution Snake</h2>
+
+<div align="center">
+  <div align="center">
+    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
+  </div>
+  
+  <br>
+
+  <!-- Note: You need to set up a GitHub Action to generate this snake animation. Once generated, it will show up here. -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hoangbmt023/hoangbmt023/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hoangbmt023/hoangbmt023/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hoangbmt023/hoangbmt023/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</div>
