@@ -26,7 +26,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Name-Phạm_Trọng_Huy_Hoàng-00223E?style=for-the-badge" alt="Name" />
   <img src="https://img.shields.io/badge/Role-Backend_Developer-005B60?style=for-the-badge" alt="Role" />
-  <img src="https://img.shields.io/badge/Location-Vietnam-0A845C?style=for-the-badge" alt="Location" />
+  <img src="https://img.shields.io/badge/Location-HCM_CITY,_Vietnam-0A845C?style=for-the-badge" alt="Location" />
 </div>
 <br>
 <div align="center">
@@ -103,8 +103,6 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
   </div>
   
-  <br>
-
   <!-- Note: You need to set up a GitHub Action to generate this snake animation. Once generated, it will show up here. -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hoangbmt023/hoangbmt023/output/github-contribution-grid-snake-dark.svg">
