@@ -24,17 +24,17 @@
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Monkey%20Face.png" alt="Monkey Face" width="35" height="35" /> About Me</h2>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Name-Phạm_Trọng_Huy_Hoàng-00223E?style=for-the-badge" alt="Name" />
-  <img src="https://img.shields.io/badge/Role-Backend_Developer-005B60?style=for-the-badge" alt="Role" />
-  <img src="https://img.shields.io/badge/Location-HCM_CITY,_Vietnam-0A845C?style=for-the-badge" alt="Location" />
+  <img src="https://img.shields.io/badge/Name-Phạm_Trọng_Huy_Hoàng-00223E?style=for-the-badge&logo=github&logoColor=white" alt="Name" />
+  <img src="https://img.shields.io/badge/Born-2nd_October_2004-034351?style=for-the-badge&logo=eventbrite&logoColor=white" alt="Born" />
+  <img src="https://img.shields.io/badge/Role-Backend_Developer-005B60?style=for-the-badge&logo=java&logoColor=white" alt="Role" />
+  <img src="https://img.shields.io/badge/Location-HCM_CITY,_Vietnam-0A845C?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Passions-API_Development_%7C_Microservices_%7C_Architecture-1D976C?style=for-the-badge&logo=gitlfs&logoColor=white" alt="Passions" />
 </div>
+
 <br>
+
 <div align="center">
-  <img src="https://img.shields.io/badge/Passions-API_Development_%7C_Microservices_%7C_Architecture-1D976C?style=for-the-badge" alt="Passions" />
-</div>
-<br>
-<div align="center">
-  <p style="font-size: 18px; font-weight: 500; color: #ffffffff;">
+  <p style="font-size: 18px; font-weight: 500; color: #ffffff;">
     <i><b>"Anything with a power button, people assume the IT guy can fix it."</b></i>
   </p>
 </div>
@@ -45,10 +45,10 @@
 
 <div align="center">
   <h3>Core Technologies & Frameworks</h3>
-  <img src="https://skillicons.dev/icons?i=java,spring,python,js,react,vite,nodejs,cs,dotnet,php,c,cpp&perline=10" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,js,react,vite,nodejs,cs,dotnet,php&perline=10" />
 
   <h3>Database, DevOps & Tools</h3>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis,docker,aws,git,github,gitlab,postman&perline=12" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker,git,github,gitlab,postman&perline=12" />
   
   <br><br>
 </div>
